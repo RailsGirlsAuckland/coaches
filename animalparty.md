@@ -7,6 +7,9 @@ Each team has a section in the main Animal Party repo, and a branch set up for t
 
 You need to work with your teams to create an animal-GIF story. All of your team should contribute at least one GIF to the story. 
 
+**You will need to add your students to the Rails Girls Auckland student team, so they can edit and commit to the repos**
+[Team is here](https://github.com/orgs/RailsGirlsAuckland/teams/students)
+
 Use the editor in GitHub to commit a GIF to your team's branch. You'll be writing using markdown.
 
 You coaches will help you with the formatting needed, and with avoiding merge conflicts. You need to make sure all contributions are between the start and end tags for your group.
